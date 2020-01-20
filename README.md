@@ -1,0 +1,2 @@
+# gsatbin
+Gsat instalation
